@@ -8,6 +8,7 @@ html{
 body{
   display: flex;
   flex-direction: column;
+  overflow-x: hidden;
   background: url(../image/bg-desktop.svg) no-repeat left;
   background-size: cover;
   font-family: 'Poppins', sans-serif;
