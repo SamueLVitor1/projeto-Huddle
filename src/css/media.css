@@ -1,0 +1,21 @@
+@media(max-width:850px){
+  .header .imgHeader{
+    max-width: 12rem
+  }
+
+  .main{
+    flex-direction: column;
+  }
+
+  .main .sectionMain{
+    text-align: center;
+  }
+
+  .footer{
+    justify-content: center;
+  }
+
+  .footer .navFooter{
+    padding-left: 40px;
+  }
+}
